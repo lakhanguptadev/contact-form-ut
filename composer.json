@@ -1,0 +1,19 @@
+{
+    "name": "utkarsh/contact",
+    "description": "This will send email and store data in database",
+    "type": "library",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {},
+    "authors": [
+        {
+            "name": "utkarsh",
+            "email": "utkarshsrivastava434@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "ut\\contacts\\":"src/"
+        }
+    }
+}
