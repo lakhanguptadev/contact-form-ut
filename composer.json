@@ -1,5 +1,5 @@
 {
-    "name": "utkarsh/contact",
+    "name": "codewithut/contact",
     "description": "This will send email and store data in database",
     "type": "library",
     "license": "MIT",
